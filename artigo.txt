@@ -1,0 +1,29 @@
+HTML (HyperText Markape Language) é uma linguagem de marcação utilizada na construção de página na Web
+Desenvolvido por W3C & WHATWG
+Documentos HTML podem ser interpretados por navegadores. A tecnologia é fruto da junção entre os
+padrões HyTime e SGML. HyTime é um padrão para a representação estruturada de hipermídias e conteúdo baseado 
+em tempo. [saber mais]
+
+//
+
+CSS (Cascading Style Sheet) é uma um mecanismo 
+Desenvolvido por World Wid Web Consortium 
+para adicionar estilos a
+uma página Web, aplicado diretamente nas tags HTML
+ou ficar contido dentro das tags <style>.
+Também é possivel, adicionar estilos adicionando
+um link para um arquivo CSS que contém os estilos. [saber mais]
+
+
+//
+
+JavaScript é uma linguagem de programação enterpretada,
+estruturada, de script em alto nível com tipagem 
+dinâmica fraca e multiparadigma. Juntamente com
+HTML e CSS, o JavaScript é uma das três principais 
+tecnologias da World Wid Web. [saber mais]
+
+//
+
+O GitHub é uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git. Ele permite que programadores, utilitários ou qualquer usuário cadastrado na plataforma hospede sites no pacote grátis ou pago, e contribuam em projetos privados/ou Open source de qulquer lugar do mundo. [saber mais]
+
